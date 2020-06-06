@@ -1,0 +1,16 @@
+FEATURES IF ETHEREUM
+
+Ethereum is like an extension of Bitcoin.
+Ethereum provides decentralised virtual machine, Ethereum Virtual Machine (EVM).
+Ethereum miners are rewarded for their computational performance to secure the blockchain with Ether cryptocurrency.
+Pricing method used in Ethereum is called as Gas.
+
+DIFFERENCE BETWEEN ETHEREUM AND BLOCKCHAIN :
+
+Ethereum networks contain executable codes called smart contracts which are not needed in Bitcoin.
+Block time in Ethereu is lesser than that of Bitcoin i.e. the block time for Ethereum block is about 14 seconds whereas for Bitcoin is about 10 minutes.
+Ethash algorihtm is used in Ethereum and SHA-256 algorithm is used in Bitcoin.
+Mining of ether generates new coins at a consistent rate where as in bitcoin the number of coins halves every 4 years.
+Transaction fees varies on the basis of computational complexity inethereum and varies on the basis of transaction size in bitcoin.
+
+ 
